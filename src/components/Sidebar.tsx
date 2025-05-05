@@ -7,6 +7,7 @@ export default function Sidebar() {
     { nombre: "Dashboard", ruta: "/" },
     { nombre: "Gestión de Notas", ruta: "/notas" },
     { nombre: "Asistencia", ruta: "/asistencia" },
+    { nombre: "Horario", ruta: "/horario" },
   ];
 
   return (
